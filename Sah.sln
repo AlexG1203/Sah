@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SahLogic", "SahLogic\SahLogic.csproj", "{25BD0588-1190-404F-920E-E105974D9D78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SahUI", "SahUI\SahUI.csproj", "{6A9FC91D-B263-4F96-9C3C-BBB9A409853E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25BD0588-1190-404F-920E-E105974D9D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25BD0588-1190-404F-920E-E105974D9D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25BD0588-1190-404F-920E-E105974D9D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25BD0588-1190-404F-920E-E105974D9D78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A9FC91D-B263-4F96-9C3C-BBB9A409853E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A9FC91D-B263-4F96-9C3C-BBB9A409853E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A9FC91D-B263-4F96-9C3C-BBB9A409853E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A9FC91D-B263-4F96-9C3C-BBB9A409853E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {117419C1-362F-4F73-A9ED-AE49D9101A39}
+	EndGlobalSection
+EndGlobal
